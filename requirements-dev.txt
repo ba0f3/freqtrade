@@ -10,7 +10,7 @@ coveralls==4.0.1
 ruff==0.9.10
 mypy==1.15.0
 pre-commit==4.1.0
-pytest==8.3.5
+pytest==9.0.3
 pytest-asyncio==0.25.3
 pytest-cov==6.0.0
 pytest-mock==3.14.0
@@ -22,7 +22,7 @@ isort==6.0.1
 time-machine==2.16.0
 
 # Convert jupyter notebooks to markdown documents
-nbconvert==7.16.6
+nbconvert==7.17.1
 
 # mypy types
 types-cachetools==5.5.0.20240820
